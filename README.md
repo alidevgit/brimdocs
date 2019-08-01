@@ -1,5 +1,5 @@
 # OpenBrIM Platform
-OpenBrIM is an on-cloud, collaborative, fully parametric engineering platform. This document provides an overview of OpenBrIM platform.
+OpenBrIM is an on-cloud, collaborative, fully parametric engineering platform. This document provides an overview of OpenBrIMthe platform.
 
 ## Overview
 OpenBrIM Platform Documentation
@@ -14,6 +14,6 @@ OpenBrIM Platform Documentation
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI2NzA0NSwxNDYxMTE4MTc0LDg3Mz
-MyOTA0N119
+eyJoaXN0b3J5IjpbMzA0NzYwOTg4LC0xMDIyNjcwNDUsMTQ2MT
+ExODE3NCw4NzMzMjkwNDddfQ==
 -->
