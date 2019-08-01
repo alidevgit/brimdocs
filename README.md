@@ -1,5 +1,5 @@
-# brimdocs
+# OpenBrIM
 OpenBrIM Platform Documentation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczMzI5MDQ3XX0=
+eyJoaXN0b3J5IjpbNzc3ODQ2MTgyLDg3MzMyOTA0N119
 -->
