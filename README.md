@@ -1,0 +1,2 @@
+# brimdocs
+OpenBrIM Platform Documentation
